@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/instacl.png" alt="Life Log UI">
 </div>
 
+<img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/ins.gif" align="right" width="180">
+
 ## Technologies
 - Firebase Authentication
 - Firebase Firestore
